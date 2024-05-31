@@ -7,7 +7,7 @@ const sendChatBtn = document.querySelector(".chat-input span");
 // =============================
 // API Key and URL for Llama API
 // =============================
-const API_KEY = "";
+const API_KEY = "LL-dfAFh3jVnzrQbxSN5ahNoTuWYlP1Mh0EBW18lC2h4bmaVos2TGoepsROZTB9AClD";
 const API_URL = "https://api.llama-api.com/chat/completions";
 
 // Make a list with all the messages
