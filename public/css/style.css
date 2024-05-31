@@ -3,7 +3,7 @@
 }
 
 body {
-  background: url("https://raw.githubusercontent.com/ieee-unipi-sb/web-dev-with-ai/main/public/img/6.png");
+  background: url("https://raw.githubusercontent.com/ieee-unipi-sb/web-dev-with-ai/main/public/img/image.jpeg");
 }
 
 img {
@@ -80,7 +80,7 @@ label {
 }
 
 footer {
-  background-color: #f1f1f1;
+  background-color: #3cb371;
   padding: 15px 0;
 }
 footer a {
